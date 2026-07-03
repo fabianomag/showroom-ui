@@ -27,13 +27,13 @@ const Home = () => {
               <p className="mr-4">&#123;</p>
             </li>
             <li>
-              <a href="https://github.com/fabianofrank" className="mr-4 hover:underline md:mr-6">Frank</a>
+              <a href="https://github.com/fabianomag" className="mr-4 hover:underline md:mr-6">Fabiano Magalhães</a>
             </li>
             <li>
-              <a href="https://github.com/fabianofrank" className="mr-4 hover:underline md:mr-6">Hector</a>
+              <a href="https://github.com/HectorTorresE" className="mr-4 hover:underline md:mr-6">Hector</a>
             </li>
             <li>
-              <a href="https://github.com/fabianofrank" className="mr-4 hover:underline md:mr-6">Jose</a>
+              <a href="https://github.com/jr-cast" className="mr-4 hover:underline md:mr-6">Jose</a>
             </li>
             <li>
               <p className="mr-4">&#125;</p>
@@ -69,7 +69,7 @@ const Home = () => {
             <p className="mr-4">&#123;</p>
           </li>
           <li>
-            <a href="https://github.com/fabianofrank" className="mr-4 hover:underline md:mr-6">Frank</a>
+            <a href="https://github.com/fabianomag" className="mr-4 hover:underline md:mr-6">Fabiano Magalhães</a>
           </li>
           <li>
             <a href="https://github.com/HectorTorresE" className="mr-4 hover:underline md:mr-6">Hector</a>

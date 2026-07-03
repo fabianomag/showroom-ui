@@ -72,7 +72,7 @@ This project was developed by a team of 5 people, you can check that out in our 
 
 ## Authors: 👋
 
-### 👤 Fabiano Magalhaes
+### 👤 Fabiano Magalhães
 
 - GitHub: [@fabianomag](https://github.com/fabianomag)
 - LinkedIn: [@fabianomag](https://www.linkedin.com/in/fabianomag/)
