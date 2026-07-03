@@ -9,7 +9,7 @@
 
 This is a web page that let's you make an appointment for an electic car test drive.
 
-This app makes use of API calls to [its back-end API](https://github.com/fabianofrank/showroom-api) to get the data for everything regarding users, cars, and reservations.
+This app makes use of API calls to [its back-end API](https://github.com/fabianomag/showroom-api) to get the data for everything regarding users, cars, and reservations.
 
 ## ERD
 ![image](https://user-images.githubusercontent.com/58822719/194433267-e653e8aa-103c-4528-b204-25fd05aa9075.png)
@@ -74,9 +74,8 @@ This project was developed by a team of 5 people, you can check that out in our 
 
 ### 👤 Fabiano Frank
 
-- GitHub: [@fabianofrank](https://github.com/fabianofrank)
-- Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
-- LinkedIn: [@fabianofrank](https://www.linkedin.com/in/fabianofrank/)
+- GitHub: [@fabianomag](https://github.com/fabianomag)
+- LinkedIn: [@fabianomag](https://www.linkedin.com/in/fabianomag/)
 
 ### 👤 Jose
 
